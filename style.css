@@ -1,0 +1,71 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Cinzel", serif;
+  margin: 2em;
+  background-color: #88A0A8;
+  color: #564D4A;
+  text-align: center;
+}
+
+p{
+  font-size: 20px;
+}
+
+h1 {
+  font-style: italic;
+  font-size: 35px;
+  color: #554640;
+/*   text-shadow: 2px 2px #8DA7BE; */
+}
+
+img{
+  border-radius: 50%;
+  border: 1px solid #88A0A8;
+  max-width: 100%;
+  height: auto;
+  padding: 5px;
+}
+
+iframe{
+  position: relative;
+  overflow: hidden;
+  width: 860px;
+  height: 350px;
+}
+
+h3{
+    font-size: 30px;
+}
+
+#info{
+    background-color: #88A0A8;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: -100px;
+    margin-right: -100px;
+
+}
+
+#intrests{
+    background-color: #DBD3C9;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#title{
+    margin-top: -36px;
+    background-color: #B4CEB3;
+    margin-left: -100px;
+    margin-right: -100px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+/*ol{*/
+/*    min-width: 696px;*/
+/*	list-style: none;*/
+/*	padding-top: 20px;*/
+/*}*/
